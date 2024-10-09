@@ -37,7 +37,7 @@ Here are some of the projects I've been working on:
 Check out my repositories for more details on each project!
 
 ____________________________________________________________________________________________
-🌐 Connect with Me
+🌐 Contact me
   - LinkedIn: [João Antônio Correia](https://www.linkedin.com/in/jo%C3%A3o-antonio-409082292/)
   - Email: joao.ac1406@gmail.com
 
@@ -83,7 +83,7 @@ Aqui estão alguns dos projetos em que estou trabalhando:
 Confira meus repositórios para mais detalhes sobre cada projeto!
 
 ____________________________________________________________________________________________
-🌐 Conecte-se Comigo
+🌐 Entre em contato
 
   - LinkedIn: [João Antônio Correia](https://www.linkedin.com/in/jo%C3%A3o-antonio-409082292/)
   - Email: joao.ac1406@gmail.com
