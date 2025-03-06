@@ -38,7 +38,7 @@ Check out my repositories for more details on each project!
 
 ____________________________________________________________________________________________
 🌐 Contact me
-  - LinkedIn: [João Antônio Correia](https://www.linkedin.com/in/jo%C3%A3o-antonio-409082292/)
+  - LinkedIn: [João Antônio Correia](https://www.linkedin.com/in/jo%C3%A3o-ant%C3%B4nio-correia-409082292/)
   - Email: joao.ac1406@gmail.com
 
 ____________________________________________________________________________________________
@@ -85,7 +85,7 @@ Confira meus repositórios para mais detalhes sobre cada projeto!
 ____________________________________________________________________________________________
 🌐 Entre em contato
 
-  - LinkedIn: [João Antônio Correia](https://www.linkedin.com/in/jo%C3%A3o-antonio-409082292/)
+  - LinkedIn: [João Antônio Correia](https://www.linkedin.com/in/jo%C3%A3o-ant%C3%B4nio-correia-409082292/)
   - Email: joao.ac1406@gmail.com
     
 <!---
