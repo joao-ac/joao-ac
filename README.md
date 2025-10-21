@@ -1,6 +1,6 @@
 English:
 
-Hello, I'm João Antônio!
+Hello, I'm João Antonio!
 
   - Student of Analysis and Systems Development
   - Passionate about technology, coding, and continuous learning.
@@ -17,12 +17,11 @@ About Me
 ____________________________________________________________________________________________
 Technologies & Tools
 
-  - Languages: Python, Java, JavaScript, SQL
-  - Frameworks & Libraries: Flask, React (basic)
-  - Databases: MySQL, SQLite
-  - Version Control: Git & GitHub
-  - Cloud Services: AWS (Lambda functions)
-  - Others: HTML, CSS
+  - Backend: Java, Spring Boot, Python
+  - Frontend: React, Next.js, TypeScript
+  - DevOps & Infrastructure: Docker, Bash
+  - Databases: SQL, MySQL, PostgreSQL
+  - Tools & Others: Git, GitHub, Network, Agile Methodologies
 
 ____________________________________________________________________________________________
 Contact me
@@ -35,7 +34,7 @@ ________________________________________________________________________________
 
 Português:
 
-Olá, eu sou o João Antônio!
+Olá, eu sou o João Antonio!
 
   - Estudante de Análise e Desenvolvimento de Sistemas
   - Apaixonado por tecnologia, programação e aprendizado contínuo.
@@ -52,12 +51,11 @@ Sobre Mim
 ____________________________________________________________________________________________
 Tecnologias & Ferramentas
 
-  - Linguagens: Python, Java, JavaScript, SQL
-  - Frameworks & Bibliotecas: Flask, React (básico)
-  - Bancos de Dados: MySQL, SQLite
-  - Controle de Versão: Git & GitHub
-  - Serviços em Nuvem: AWS (funções Lambda)
-  - Outros: HTML, CSS
+  - Backend: Java, Spring Boot, Python.
+  - Frontend: React, Next.js, TypeScript
+  - DevOps e Infraestrutura: Docker, Bash.
+  - Banco de Dados: SQL, MySQL, PostgreSQL
+  - Ferramentas e Outros: Git, GitHub, Redes, Metodologias Ágeis.
 
 
 ____________________________________________________________________________________________
