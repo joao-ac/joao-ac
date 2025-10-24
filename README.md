@@ -25,7 +25,7 @@ Technologies & Tools
 
 ____________________________________________________________________________________________
 Contact me
-  - LinkedIn: [João Antônio Correia](https://www.linkedin.com/in/joao-ac1406/)
+  - LinkedIn: [João Antonio Correia](https://www.linkedin.com/in/joao-ac1406/)
   - Email: joao.ac1406@gmail.com
   - Feel free to reach out to me via LinkedIn or check out my projects on GitHub!
 
@@ -61,7 +61,7 @@ Tecnologias & Ferramentas
 ____________________________________________________________________________________________
 Entre em contato
 
-  - LinkedIn: [João Antônio Correia](https://www.linkedin.com/in/joao-ac1406/)
+  - LinkedIn: [João Antonio Correia](https://www.linkedin.com/in/joao-ac1406/)
   - Email: joao.ac1406@gmail.com
   - Fique à vontade para entrar em contato comigo pelo LinkedIn ou conferir meus projetos no GitHub!
     
